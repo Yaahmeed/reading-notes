@@ -11,4 +11,4 @@ Growth mindset means to me that you thrive on challenges, and don’t see failur
 2. Talk with growth mindset voice
 3. Practice
 
-Here my link to my github portfolio https:github.com/yaahmeed
+Here my link to my github portfolio: [Github Portfolio](https:github.com/yaahmeed)
