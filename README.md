@@ -1,6 +1,6 @@
-# [reading-notes102d45](https://github.com/Yaahmeed/reading-notes102d45)
+## [reading-notes102d45](https://github.com/Yaahmeed/reading-notes102d45)
 
-## **My Reading Notes Course 102**
+# **My Reading Notes Course 102**
 
  *Hi my name is **Yasmin** and I want learning to code*
 
