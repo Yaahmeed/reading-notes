@@ -1,15 +1,34 @@
-## [reading-notes102d45](https://github.com/Yaahmeed/reading-notes102d45)
+# My Reading Journal For Code Fellows
 
-# **My Reading Notes Course 102**
+*Hi my name is **Yasmin** and I want learn to code*
 
- *Hi my name is **Yasmin** and I want learning to code*
+## Table of Contents
 
-Growth mindset means to me that you thrive on challenges, and don’t see failure as a way to describe yourself but as a springboard for growth and developing your abilities. Your intelligence and talents are all susceptible to growth.
+### 102 Notes
 
-### **3 reminders to stay in growth minds are**
+* [Class 1 Reading Notes](102/Class1.md)
+* [Class 2 Reading Notes](102/Class2.md)
+* [Class 3 Reading Notes](102/Class3.md)
+* [Class 4 Reading Notes](102/Class4.md)
+* [Class 5 Reading Notes](102/Class5.md)
+* [Class 6 Reading Notes](102/Class6.md)
+* [Class 7 Reading Notes](102/Class7.md)
+* [Class 8 Reading Notes](102/Class8.md)
 
-- Recongize you have a choice
-- Talk with growth mindset voice
-- Practice
+### 201 Notes
 
-Here my link to my github portfolio: [Github Portfolio](https:github.com/yaahmeed)
+* [Class 1 Reading Notes](201/class1.md)
+* [Class 2 Reading Notes](201/class2.md)
+* [Class 3 Reading Notes](201/class3.md)
+* [Class 4 Reading Notes](201/class4.md)
+* [Class 5 Reading Notes](201/class5.md)
+* [Class 6 Reading Notes](201/class6.md)
+* [Class 7 Reading Notes](201/class7.md)
+* [Class 8 Reading Notes](201/class8.md)
+* [Class 9 Reading Notes](201/class9.md)
+* [Class 10 Reading Notes](201/class10.md)
+* [Class 11 Reading Notes](201/class11.md)
+* [Class 12 Reading Notes](201/class12.md)
+* [Class 13 Reading Notes](201/class13.md)
+* [Class 14 Reading Notes](201/class14.md)
+* [Class 15 Reading Notes](201/class15.md)
