@@ -1,4 +1,6 @@
-# Foundations
+# Class 2 Notes
+
+## Foundations
 
 ## Basics of HTML, CSS, and JS
 
