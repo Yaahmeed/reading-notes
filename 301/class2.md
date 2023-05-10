@@ -8,7 +8,6 @@
 
 3. constructor, render, React Updates, componentDidMount, componentWillUnmount  
 
-
 ## React State Vs Props  
 
 1. Pass in initial data, something to display to a user (ie: title, subtitle)  
@@ -19,5 +18,4 @@
 
 4. Information that needs to be or can be updated, especially by a user.
 
-## Things I want to know more about  
-
+## Things I want to know more about
